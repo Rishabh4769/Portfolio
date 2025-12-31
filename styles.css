@@ -24,7 +24,7 @@
 
 body {
     font-family: var(--primary-font);
-    background: url(main-bg.jpg);
+    background: url(/main-bg.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
